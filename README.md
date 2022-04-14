@@ -1,4 +1,4 @@
-<code>🎓 Student: KPI / IM-11</code>
+<code>🎓 Student: KPI / IA-95</code>
 <code>⚪ Community: Metarhia</code>
 <code>👷 Speciality: Software engineer / Backend</code><br>
 <code>💡 [Skills](SKILLS.md)</code>
@@ -8,5 +8,5 @@
 <code>🧑‍💻 Languages: JavaScript, C++</code>
 <code>📦 Tech stack: node.js</code>
 <code>🪙 [Rates](RATES.md)</code><br>
-<code>💬 telegram: [@your-nikname](https://telegram.me/your-nikname)</code>
-<code>📫 [your-email](mailto:your-email)</code>
+<code>💬 telegram: [@Bogdan_101](https://telegram.me/bogdan_101)</code>
+<code>📫 [zutnik87@gmail.com](mailto:zutnik87@gmail.com)</code>
