@@ -1,6 +1,6 @@
-<code>🎓 Student: KPI / IA-95</code>
+<code>🎓 Student: KPI / IA-94</code>
 <code>⚪ Community: Metarhia</code>
-<code>👷 Speciality: Software engineer / Backend</code><br>
+<code>👷 Speciality: DevOps/ SysAdmin/Software engineer / Backend</code><br>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧻 [Projects](PROJECTS.md)</code>
 <code>📢 [Public talks: 0](TALKS.md)</code>
